@@ -1,0 +1,5 @@
+com\realdolmen\maven\volleyballKlassement\domain\Player.class
+com\realdolmen\maven\volleyballKlassement\domain\Game.class
+com\realdolmen\maven\volleyballKlassement\domain\Team.class
+com\realdolmen\maven\volleyballKlassement\domain\Competition.class
+com\realdolmen\maven\volleyballKlassement\domain\Statistic.class
